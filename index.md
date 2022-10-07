@@ -3,11 +3,10 @@ layout: default
 ---
 
 > Proposal
-> Dataset: [Link](https://www.yelp.com/dataset)
 
 # Introduction
 
-Small businesses and restaurants are the heart of a country's economy. We will be working with Yelp’s open-source dataset to provide customized recommendations and suggestions to consumers. This will help boutique business owners in bolstering their growth.
+Small businesses and restaurants are the heart of a country's economy. We will be working with Yelp’s open-source dataset ([link](https://www.yelp.com/dataset)) to provide customized recommendations and suggestions to consumers. This will help boutique business owners in bolstering their growth.
 
 The review data has some key useful attributes that we intend to use: the star rating, actual text review, and “useful”, “cool”, or “funny” votes on the rating. We could include the “tips” data which has text recommendations from users on lesser-known advice about a restaurant, along with its “compliment” count to keep track of how many people appreciated the tip. 
 
