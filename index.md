@@ -28,8 +28,7 @@ TODO Devesh
 
 # Responsibilities
 
-TODO
-
+Gantt Chart: [Link](https://drive.google.com/file/d/1a8CpYTIaEs98ROGSZjYUWOdNtHTXPAqC/view?usp=sharing)
 
 # References
 
