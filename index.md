@@ -3,6 +3,7 @@ layout: default
 ---
 
 > Proposal
+> Dataset: [Link](https://www.yelp.com/dataset)
 
 # Introduction
 
@@ -40,5 +41,5 @@ S., H., & Ramathmika, R. (2019). Sentiment Analysis of Yelp reviews by machine l
 
 Singh, Ruchi & Woo, Jongwook. (2019). Applications of Machine Learning Models on Yelp Data. Asia Pacific Journal of Information Systems. 29. 65-49. 10.14329/apjis.2019.29.1.35. 
 
-Yelp Dataset. (n.d.). Retrieved October 6, 2022, from https://www.yelp.com/dataset/
+Yelp Dataset. (n.d.). Retrieved October 6, 2022, from https://www.yelp.com/dataset
 
