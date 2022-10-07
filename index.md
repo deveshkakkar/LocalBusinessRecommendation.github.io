@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Proposal
+
 # Introduction
 
 Small businesses and restaurants are the heart of a country's economy. We will be working with Yelp’s open-source dataset to provide customized recommendations and suggestions to consumers. This will help boutique business owners in bolstering their growth.
