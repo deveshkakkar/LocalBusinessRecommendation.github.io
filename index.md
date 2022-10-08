@@ -30,6 +30,16 @@ TODO Devesh
 
 Gantt Chart: [Link](https://drive.google.com/file/d/1a8CpYTIaEs98ROGSZjYUWOdNtHTXPAqC/view?usp=sharing)
 
+# Contributions
+
+| Team Member        | Contributions                                                                                                                |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| Mehul Rastogi      | Helped with team organization / check-ins, proposed potential data sets, wrote problem definition, proofread/edited proposal,                            worked on website                                                                                                            |
+| Prakhar Mittal     | Proposed potential data sets, compiled project references, created Gantt Chart, proofread/edited proposal, worked on website |
+| Tanishq Sandhu     | Helped with team organization / check-ins, proposed potential data sets, worked on introduction section                      |
+| Devesh Kakkar      | Proposed potential data sets, worked on potential results section                                                            |
+| Sumanth Kondapalli | Proposed potential data sets, wrote methods section, created contributions table                                             |
+
 # References
 
 Burke, Robin. (2002). Hybrid Recommender Systems: Survey and Experiments. User Modeling and User-Adapted Interaction. 12. 10.1023/A:1021240730564. 
