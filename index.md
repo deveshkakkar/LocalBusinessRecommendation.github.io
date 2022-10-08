@@ -34,9 +34,9 @@ Gantt Chart: [Link](https://drive.google.com/file/d/1a8CpYTIaEs98ROGSZjYUWOdNtHT
 
 | Team Member        | Contributions                                                                                                                |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| Mehul Rastogi      | Helped with team organization / check-ins, proposed potential data sets, wrote problem definition, proofread/edited proposal,                            worked on website                                                                                                            |
+| Mehul Rastogi      | Helped with team organization/check-ins, proposed potential data sets, wrote problem definition, proofread/edited proposal,                            worked on website                                                                                                            |
 | Prakhar Mittal     | Proposed potential data sets, compiled project references, created Gantt Chart, proofread/edited proposal, worked on website |
-| Tanishq Sandhu     | Helped with team organization / check-ins, proposed potential data sets, worked on introduction section                      |
+| Tanishq Sandhu     | Helped with team organization/check-ins, proposed potential data sets, worked on introduction section                      |
 | Devesh Kakkar      | Proposed potential data sets, worked on potential results section                                                            |
 | Sumanth Kondapalli | Proposed potential data sets, wrote methods section, created contributions table                                             |
 
