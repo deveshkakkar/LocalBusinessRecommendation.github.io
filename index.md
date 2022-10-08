@@ -24,7 +24,7 @@ Latent Dirichlet Allocation (LDA) can be used to classify text by category (cuis
 
 # Potential Results
 
-TODO Devesh
+We will produce a model which outputs reviews, similarity score and location. We extract sentiment from the current reviews which means our model will have to conduct multi-class classification for sentiment analysis. Some metrics we would use for evaluation of our model would be precision, recall, and weighted-f-score. These metrics will be used for the success of our model. Weighted-f-score is the relations between data’s positive labels and those given by the model based on a per-class average. We use Weighted-f-score compared to other metrics such as ROCAUC which does not work for problems with high class imbalances. A weighted-f-score is better for a multi classification problem compared to a regular or macro F1 score. 
 
 # Responsibilities
 
